@@ -1,1 +1,1 @@
-A C++ progrma depicting how efficient AES is.
+A C++ program depicting how efficient AES is.
