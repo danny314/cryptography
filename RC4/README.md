@@ -1,1 +1,1 @@
-RC4 implementation. For demon only - do not use in production
+RC4 implementation. For demo only - do not use in production
